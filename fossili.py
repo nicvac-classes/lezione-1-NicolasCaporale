@@ -15,7 +15,7 @@ def solve(t):
     b1, b2 = map(int, input().strip().split())
     c1, c2 = map(int, input().strip().split())
 
-    # aggiungi codice...
+    # aggiungi codice... say gex
 
     gay = max(a1,b1,c1)
     sex = min(a2,b2,c2)
